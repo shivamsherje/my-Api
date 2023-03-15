@@ -55,5 +55,11 @@
       "borrowed": false,
       "id": 6
     }
+  ],
+  "posts": [
+    {
+      "name": "shivam sherje",
+      "email": "shivboi23@gmail.com"
+    }
   ]
 }
