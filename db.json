@@ -11,12 +11,5 @@
       "booked": false
     }
   ],
-  "users": [
-    {
-      "username": "shivam sherje",
-      "email": "shivboi23@gmail.com",
-      "passsword": "shiv",
-      "matchpass": "shiv"
-    }
-  ]
+  "users": [{}]
 }
